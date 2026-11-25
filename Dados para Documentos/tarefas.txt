@@ -1,0 +1,7 @@
+Webdesign;Ana Silva;True;Página inicial;True;01/11/2026;30/11/2026;Desenhar e implementar a página inicial do site.
+Webdesign;Bruno Costa;False;Página inicial;False;01/11/2026;30/11/2026;Apoio na parte de CSS.
+Webdesign;Bruno Costa;False;Logótipo;True;10/10/2026;31/10/2026;Criar o novo logótipo.
+Bases de dados;Carla Mendes;True;Modelo de dados;True;15/11/2026;15/12/2026;Modelo ER e tabelas.\nIncluir os índices.
+Bases de dados;Diogo Santos;False;Backups;True;01/12/2026;31/12/2026;Configurar as cópias de segurança automáticas.
+Redes;Eva Rodrigues;True;Configurar VLANs;True;05/11/2026;25/11/2026;VLANs para os três pisos.
+Redes;Ana Silva;False;Configurar VLANs;False;05/11/2026;25/11/2026;
